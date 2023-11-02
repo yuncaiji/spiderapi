@@ -4,10 +4,9 @@ Various app reverse crawler data interfaces. Tiktok, Xiaohongshu, Kwai, JD, Meit
 # api
 Provide various app data collection interfaces. Only collect crawler data. Do not do likes, private messages, or other business.
 
-#Tiktok # Little Red Book # Kwai # Jingdong # Meituan # Hungry? # Public Comments # Get Things # Taobao # pdd # lazada
-
-
-#Get new sign sk
+#dewu Get new sign sk
+#poizon spider data 
+#poizon price and detail
 #Xiaohongshu app collects user note information through Xiaohongshu data collection
 #Tiktok Product Search Product Details
 #douyin Product Search Product Details
@@ -15,6 +14,9 @@ Provide various app data collection interfaces. Only collect crawler data. Do no
 #Lazada crawler sign data detail comment
 #shopee crawler data detail comment
 #temu  crawler data detail comment
+#taobao detail api spdier crawler sign data detail comment
+#pingduoduo detail api spdier crawler sign data detail comment
+#Jingdong(jd） detail api spdier crawler sign data detail comment
 
 
 # Advantage
@@ -30,7 +32,7 @@ All interfaces can be tried for free first, and paid for use after satisfaction.
 If there are other interface requirements, they can be customized for development.
 Do not communicate cracking solutions, and the data is for learning purposes only. 
 If it infringes on your rights, please contact to delete 
-wechat:xg98126635
-telegram:@s36959
+wechat:　<font color='red'>xg98126635</font>
+telegram:<font color='red'>@s36959</font>
 When adding friends, please specify: API
 
